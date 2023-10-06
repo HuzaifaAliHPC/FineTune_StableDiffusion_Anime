@@ -32,3 +32,5 @@ for more details check out [Stable Diffusion Guide](https://civitai.com/models/2
 - Run the last cell and open Gradio link
  
  Check out my model that I trained on Naruto Anime Data [Naruto | LoRA](https://civitai.com/models/146475/naruto-or-lora)
+ 
+[![Demo](https://img.shields.io/badge/Demo-View%20Demo-blue)](https://civitai.com/models/146475/naruto-or-lora)
