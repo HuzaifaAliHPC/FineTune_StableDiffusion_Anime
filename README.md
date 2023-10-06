@@ -31,3 +31,4 @@ for more details check out [Stable Diffusion Guide](https://civitai.com/models/2
 - give your LoRA models path.
 - Run the last cell and open Gradio link
  
+ Check out my model that I trained on Naruto Anime Data [Naruto | LoRA](https://civitai.com/models/146475/naruto-or-lora)
