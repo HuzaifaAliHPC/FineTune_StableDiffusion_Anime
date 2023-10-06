@@ -4,7 +4,7 @@
 - Connect it to your Google Drive for Dataset purpose 
 - Afterwards upload your file into your Loras/[project_name]/dataset folder.
 - All process is automated then you can provide your global activation tags and other functionalities are also provided.
-
+ 
 # Lora Trainer Anime
 
 In this file you need to look 5 things 
