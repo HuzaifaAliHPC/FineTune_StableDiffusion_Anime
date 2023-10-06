@@ -13,11 +13,11 @@ In this file you need to look 5 things
 
 use below strategies, it works well.
 
-10 images × 10 repeats × 20 epochs ÷ 2 batch size = 1000 steps
-20 images × 10 repeats × 10 epochs ÷ 2 batch size = 1000 steps
-100 images × 3 repeats × 10 epochs ÷ 2 batch size = 1500 steps
-400 images × 1 repeat × 10 epochs ÷ 2 batch size = 2000 steps
-1000 images × 1 repeat × 10 epochs ÷ 3 batch size = 3300 steps
+- 10 images × 10 repeats × 20 epochs ÷ 2 batch size = 1000 steps
+- 20 images × 10 repeats × 10 epochs ÷ 2 batch size = 1000 steps
+- 100 images × 3 repeats × 10 epochs ÷ 2 batch size = 1500 steps
+- 400 images × 1 repeat × 10 epochs ÷ 2 batch size = 2000 steps
+- 1000 images × 1 repeat × 10 epochs ÷ 3 batch size = 3300 steps
 
 check flip aug if your dataset has less than 20 images.
 
