@@ -1,7 +1,9 @@
 # Dataset_Maker_Anime
 
-first run the Dataset Maker Anime file and connect it to your Google Drive for Dataset purpose afterwards upload your file into your Loras/[project_name]/dataset folder.
-All process is automated then you can provide your global activation tags and other functionalities are also provided.
+- First run the Dataset Maker Anime file
+- Connect it to your Google Drive for Dataset purpose 
+- Afterwards upload your file into your Loras/[project_name]/dataset folder.
+- All process is automated then you can provide your global activation tags and other functionalities are also provided.
 
 # Lora Trainer Anime
 
