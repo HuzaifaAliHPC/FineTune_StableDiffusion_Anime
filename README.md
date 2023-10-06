@@ -128,7 +128,7 @@ This section prepares your dataset for Lora training and provides a link to the 
 - View the top tags in your dataset, helping you understand its content better.
 
 ### 📂 Unzip Dataset
-
+ 
 - Upload a zip file containing your dataset and extract it to your Google Drive for easier access.
 
 ### 🔢 Count Datasets
